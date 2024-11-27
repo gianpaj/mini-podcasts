@@ -1,0 +1,18 @@
+# TODO
+
+## admin
+
+- create Google Cloud Project with billing. Oauth enabled. Add file to backend
+
+## front-end
+
+- state management (zustand)
+- display on the bottom of screen the podcast that is currently playing
+
+## back-end
+
+- create MongoDB Atlas cloud database
+- create Oauth route with JWT tokens
+- store the the audio files in Google Cloud Storage or AWS S3 or Cloudflare R2
+
+- shoud we use Python backend to generate the podcasts audio files?
